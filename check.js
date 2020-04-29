@@ -1,1 +1,1 @@
-console.log("hello daribowly and yulishkastyskytropskis also propellerheads");
+console.log("hello daribowly and yulishkastyskytropskistlys also propellerheads");
